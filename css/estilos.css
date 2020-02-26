@@ -1,0 +1,12 @@
+form {
+	background: #eee;
+ 	padding: 20px;
+}
+form:focus-within {
+ 	background: pink;
+ 	outline: 3px solid #333;
+} 
+
+#miformulario {
+	text-align: left;
+}
